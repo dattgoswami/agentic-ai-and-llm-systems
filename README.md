@@ -6,7 +6,7 @@ Welcome to `AI-Learning-and-Insights`! This repository is a collection of my wri
 
 * [While We Wait for Continual Learning to Get Us to World Models (AGI), Program Synthesis Is the Dark Horse That Might Get There First](https://open.substack.com/pub/datt/p/while-we-wait-for-continual-learning?r=nh5j)
 
-# [RL, CL Conference Workshops](https://github.com/dattgoswami/AI-Learning-and-Insights/blob/main/ReinforcementLearningConference_ContinualLearningCollas.MD)
+* [RL, CL Conference Workshops](https://github.com/dattgoswami/AI-Learning-and-Insights/blob/main/ReinforcementLearningConference_ContinualLearningCollas.MD)
 
 1. **Mastering Prompt Engineering: An Exploratory Guide to Navigating the World of Large Language Models** (Draft - Work in progress) - July 2023
    - A comprehensive guide to understanding and effectively utilizing large language models. Dive into the art and science of prompt engineering to make the most out of these powerful tools.
