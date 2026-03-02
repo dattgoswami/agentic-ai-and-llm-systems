@@ -8,6 +8,7 @@ Welcome to `AI-Learning-and-Insights`! This repository is a collection of my wri
 * [RL, CL Conference Workshops](https://github.com/dattgoswami/AI-Learning-and-Insights/blob/main/ReinforcementLearningConference_ContinualLearningCollas.MD)
 * [Program Synthesis for RL: Using LLMs to accelerate programmatic policy synthesis](https://github.com/dattgoswami/prof-levi-papers-references)
 * [The Agent Framework Wars Are Already Over (You Just Don’t Know It Yet)](https://datt.substack.com/p/the-agent-framework-wars-are-already)
+* [Building AI That Actually Ships: An Engineer’s Field Guide to RAG, Agents, and Operationalizing AI](https://open.substack.com/pub/datt/p/building-ai-that-actually-ships-an?utm_campaign=post-expanded-share&utm_medium=web)
 
 1. **Mastering Prompt Engineering: An Exploratory Guide to Navigating the World of Large Language Models** (Draft - Work in progress) - July 2023
    - A comprehensive guide to understanding and effectively utilizing large language models. Dive into the art and science of prompt engineering to make the most out of these powerful tools.
