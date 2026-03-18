@@ -4,6 +4,7 @@ Welcome to `AI-Learning-and-Insights`! This repository is a collection of my wri
 
 ## Contents
 * [The Benchmark Gap in Continual RL: From Continual World to SPIRAL](https://datt.substack.com/p/the-benchmark-gap-in-continual-rl)
+* [The Plasticity Crisis in Continual Deep Learning](https://datt.substack.com/p/the-plasticity-crisis-in-continual)
 
 * [While We Wait for Continual Learning to Get Us to World Models (AGI), Program Synthesis Is the Dark Horse That Might Get There First](https://open.substack.com/pub/datt/p/while-we-wait-for-continual-learning?r=nh5j)
 * [RL, CL Conference Workshops](https://github.com/dattgoswami/AI-Learning-and-Insights/blob/main/ReinforcementLearningConference_ContinualLearningCollas.MD)
