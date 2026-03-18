@@ -3,6 +3,7 @@
 Welcome to `AI-Learning-and-Insights`! This repository is a collection of my writings and educational resources on a variety of technical and cognitive topics. Whether you're here to delve into the inner workings of programming languages, understand the intricacies of large language models, or explore science-backed strategies for rapid learning and creative growth, you'll find valuable insights here.
 
 ## Contents
+* [The Benchmark Gap in Continual RL: From Continual World to SPIRAL](https://datt.substack.com/p/the-benchmark-gap-in-continual-rl)
 
 * [While We Wait for Continual Learning to Get Us to World Models (AGI), Program Synthesis Is the Dark Horse That Might Get There First](https://open.substack.com/pub/datt/p/while-we-wait-for-continual-learning?r=nh5j)
 * [RL, CL Conference Workshops](https://github.com/dattgoswami/AI-Learning-and-Insights/blob/main/ReinforcementLearningConference_ContinualLearningCollas.MD)
