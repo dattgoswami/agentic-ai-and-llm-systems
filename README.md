@@ -12,6 +12,7 @@ Welcome to `AI-Learning-and-Insights`! This repository is a collection of my wri
 * [The Agent Framework Wars Are Already Over (You Just Don’t Know It Yet)](https://datt.substack.com/p/the-agent-framework-wars-are-already)
 * [Building AI That Actually Ships: An Engineer’s Field Guide to RAG, Agents, and Operationalizing AI](https://open.substack.com/pub/datt/p/building-ai-that-actually-ships-an?utm_campaign=post-expanded-share&utm_medium=web)
 * [Context Engineering: The Real Work Behind Production AI Systems](https://open.substack.com/pub/datt/p/context-engineering-the-real-work?r=nh5j&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+* [Beyond Thinking Longer: How to Teach Language Models to Actually Explore](https://medium.com/@dattgoswami/beyond-thinking-longer-how-to-teach-language-models-to-actually-explore-3ae3297ee71f)
 
 1. **Mastering Prompt Engineering: An Exploratory Guide to Navigating the World of Large Language Models** (Draft - Work in progress) - July 2023
    - A comprehensive guide to understanding and effectively utilizing large language models. Dive into the art and science of prompt engineering to make the most out of these powerful tools.
