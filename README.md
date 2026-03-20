@@ -1,10 +1,7 @@
-# AI-Learning-and-Insights
-
-Welcome to `AI-Learning-and-Insights`! This repository is a collection of my writings and educational resources on a variety of technical and cognitive topics. Whether you're here to delve into the inner workings of programming languages, understand the intricacies of large language models, or explore science-backed strategies for rapid learning and creative growth, you'll find valuable insights here.
-
 ## Contents
-* [Continual Intelligence Series - Article 1: The Benchmark Gap in Continual RL: From Continual World to SPIRAL](https://datt.substack.com/p/the-benchmark-gap-in-continual-rl)
-* [Continual Intelligence Series - Article 2: The Plasticity Crisis in Continual Deep Learning](https://datt.substack.com/p/the-plasticity-crisis-in-continual)
+* [Continual Intelligence](https://github.com/dattgoswami/Continual-Intelligence)
+* [Continual Intelligence Series - Article 1: The Benchmark Gap in Continual RL: From Continual World to SPIRAL](https://github.com/dattgoswami/Continual-Intelligence/blob/main/A1_The%20Benchmark%20Gap%20in%20Continual%20RL%3A%20From%20Continual%20World%20to%20SPIRAL.md)
+* [Continual Intelligence Series - Article 2: The Plasticity Crisis in Continual Deep Learning](https://github.com/dattgoswami/Continual-Intelligence/blob/main/A2_The%20Plasticity%20Crisis%20in%20Continual%20Deep%20Learning.md)
 
 * [While We Wait for Continual Learning to Get Us to World Models (AGI), Program Synthesis Is the Dark Horse That Might Get There First](https://open.substack.com/pub/datt/p/while-we-wait-for-continual-learning?r=nh5j)
 * [RL, CL Conference Workshops](https://github.com/dattgoswami/AI-Learning-and-Insights/blob/main/ReinforcementLearningConference_ContinualLearningCollas.MD)
@@ -35,6 +32,3 @@ Welcome to `AI-Learning-and-Insights`! This repository is a collection of my wri
 7. **Probability - YouTube Playlist Outline** - Nov 2017
    - An outline of my comprehensive YouTube playlist on Probability. Learn the fundamental concepts and techniques of probability, a crucial tool in many fields, particularly in data science and machine learning.
 
-Feel free to dive in and explore these resources at your own pace. I will update this repository as I make progress on the works-in-progress. If you have any questions or feedback, please feel free to open an issue or submit a pull request.
-
-Happy Learning!
