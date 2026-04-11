@@ -1,6 +1,7 @@
 ## Contents
 * [TurboQuant in Rust: Provably Near-Optimal KV Cache Compression for LLM Inference Servers](https://medium.com/@dattgoswami/turboquant-in-rust-provably-near-optimal-kv-cache-compression-for-llm-inference-servers-fb59f15c6216)
 * [Beyond Thinking Longer: How to Teach Language Models to Actually Explore](https://medium.com/@dattgoswami/beyond-thinking-longer-how-to-teach-language-models-to-actually-explore-3ae3297ee71f)
+* [The State and Future of Agentic AI: What the Leading Labs Are Thinking](https://datt.substack.com/p/the-state-and-future-of-agentic-ai)
 * [Continual Intelligence](https://github.com/dattgoswami/Continual-Intelligence)
 * [Continual Intelligence Series - Article 1: The Benchmark Gap in Continual RL: From Continual World to SPIRAL](https://github.com/dattgoswami/Continual-Intelligence/blob/main/A1_The%20Benchmark%20Gap%20in%20Continual%20RL%3A%20From%20Continual%20World%20to%20SPIRAL.md)
 * [Continual Intelligence Series - Article 2: The Plasticity Crisis in Continual Deep Learning](https://github.com/dattgoswami/Continual-Intelligence/blob/main/A2_The%20Plasticity%20Crisis%20in%20Continual%20Deep%20Learning.md)
