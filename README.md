@@ -23,7 +23,7 @@
 3. **Mastering the Mind: Science-Backed Strategies for Rapid Learning and Creative Growth** (In progress)
    - Unleash your full cognitive potential with this collection of science-backed strategies and techniques for rapid learning and creative growth. Discover how understanding the brain can boost your intellectual and creative endeavors.
 
-4. **System Design** - July 2023
+4. [System Design](https://github.com/dattgoswami/AI-Learning-and-Insights/blob/main/4_SystemDesign.md) spec for Coding Agents - July 2023
    - An in-depth look into system design, exploring how to effectively structure and design complex software systems. 
 
 5. **Concurrency in Go** - August 2023
