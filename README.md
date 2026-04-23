@@ -1,4 +1,5 @@
 ## Contents
+* [Ferrum Stack](https://drive.google.com/file/d/15N13R1c0gWQDTTNzfVQruilHJWlRwneQ/view?usp=sharing) || [Ferrum Platform Poster](https://drive.google.com/file/d/1yD4BJmNPHm3lDecZRchCPDTh9vz-uBc9/view?usp=sharing)
 * [TurboQuant in Rust: Provably Near-Optimal KV Cache Compression for LLM Inference Servers](https://medium.com/@dattgoswami/turboquant-in-rust-provably-near-optimal-kv-cache-compression-for-llm-inference-servers-fb59f15c6216)
 * [Beyond Thinking Longer: How to Teach Language Models to Actually Explore](https://medium.com/@dattgoswami/beyond-thinking-longer-how-to-teach-language-models-to-actually-explore-3ae3297ee71f)
 * [The State and Future of Agentic AI: What the Leading Labs Are Thinking](https://datt.substack.com/p/the-state-and-future-of-agentic-ai)
