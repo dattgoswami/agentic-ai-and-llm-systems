@@ -1,4 +1,5 @@
 ## Contents
+* [Enterprise AI Guide 2026-2028: What Enterprises Should Do in the Next Two Years](https://datt.substack.com/p/enterprise-ai-guide-2026-2028-what)
 * [Run GLM-4.7 for Free Inside Pi Coding Agent Using NVIDIA NIM](https://medium.com/@dattgoswami/run-glm-4-7-for-free-inside-pi-coding-agent-using-nvidia-nim-9c1c97cf574e)
 * [Ferrum Stack](https://drive.google.com/file/d/15N13R1c0gWQDTTNzfVQruilHJWlRwneQ/view?usp=sharing) || [Ferrum Platform Poster](https://drive.google.com/file/d/1yD4BJmNPHm3lDecZRchCPDTh9vz-uBc9/view?usp=sharing)
 * [cl-agent: A Continual Learning Substrate for Coding Agents](https://github.com/dattgoswami/cl-agent/blob/main/paper/cl_agent_paper_pub.pdf)
